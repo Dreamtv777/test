@@ -96,13 +96,13 @@ img {
 
 .dropdown-item a::before {
     content: ' ';
-    border: 2px solid var(--border-color);
-    border-radius: 2%;
+    border: 0px solid var(--border-color);
+    border-radius: 0%;
     width: 2rem;
     height: 2rem;
     display: inline-block;
     vertical-align: middle;
-    margin-right: 2px;
+    margin-right: 0px;
 }
 
 
